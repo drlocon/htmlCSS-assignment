@@ -23,10 +23,6 @@ main{
   position: relative;
 }
 
-.step-box:nth-child(3){
-  margin-right: 0;
-}
-
 .step1-img{
   background-image: url(img/flow01.png);
   height: 150px;
