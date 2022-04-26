@@ -64,3 +64,24 @@ footer{
   height: 50px;
   background-color: #AAAAAA;
 }
+
+/* レスポンシブ対応 */
+@media screen and (max-width:768px){
+
+header {
+  width: 100%;
+}
+
+main {
+  width: 100%;
+  display: block;
+}
+
+.step-box {
+  width: 90%;
+}
+
+footer{
+  width: 100%;
+}
+}
